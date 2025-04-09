@@ -2,3 +2,12 @@ h1{
     text-align: center;
     color: red;
 }
+
+.lorem1{
+    text-align: end;
+    color: blue;
+}
+.lorem2{
+    text-align: start;
+    color: blueviolet;
+}
